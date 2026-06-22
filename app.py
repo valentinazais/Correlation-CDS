@@ -1,5 +1,5 @@
 """
-Basket CDS — Correlation Impact  |  run: streamlit run copula_app.py
+CDS Basket Correlation  |  run: streamlit run copula_app.py
 """
 from __future__ import annotations
 
