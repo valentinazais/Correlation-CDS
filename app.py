@@ -14,7 +14,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed",
 )
 
-st.title("Basket CDS — Correlation Impact")
+st.title("CDS Basket correlation")
 
 # ── Reset ────────────────────────────────────────────────────────────────────
 if "rc" not in st.session_state:
