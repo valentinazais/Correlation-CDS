@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 from scipy.stats import norm
 
 st.set_page_config(
-    page_title="Basket CDS — Correlation Impact",
+    page_title="CDS Basket correlation",
     layout="wide",
     initial_sidebar_state="collapsed",
 )
